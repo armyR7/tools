@@ -1,4 +1,4 @@
-![ARDT](http://i.imgur.com/IQycZsc.png)
+![ARDT]()
 
 **Akamai Reflective DDoS Tool**
 
